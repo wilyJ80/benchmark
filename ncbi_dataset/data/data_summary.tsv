@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Agaricus bisporus var. bisporus H97		strain: H97	936046	Agabi_varbisH97_2	GCA_000300575.1	GenBank		Scaffold	262535	30233745	2012-11-30		PRJNA61005	SAMN02744070
+Agaricus bisporus var. bisporus H97		strain: H97	936046	Agabi_varbisH97_2	GCF_000300575.1	RefSeq	Annotation submitted by NCBI RefSeq	Scaffold	262535	30233745	2012-11-30	10606	PRJNA61005	SAMN02744070
